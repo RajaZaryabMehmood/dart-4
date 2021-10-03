@@ -26,3 +26,22 @@
 //      print(j*a);
 //      }
 // }
+
+//---Q4
+// void main(){
+
+//   marksheet(); 
+
+// }
+
+// void marksheet(){
+//   List lst1 = ["raja","zaryab","mehmood","rizwan","zeeshan"];
+//   List lst2 = ["75","85","60","80","90"];
+    
+//       print("${lst1.elementAt(0)}:${lst2.elementAt(0)}");
+//       print("${lst1.elementAt(1)}:${lst2.elementAt(1)}");
+//       print("${lst1.elementAt(2)}:${lst2.elementAt(2)}");
+//       print("${lst1.elementAt(3)}:${lst2.elementAt(3)}");
+//       print("${lst1.elementAt(4)}:${lst2.elementAt(4)}");
+        
+// }
